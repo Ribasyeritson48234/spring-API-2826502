@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.productos.spring.java.productos2826502.Productos2826502ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.629 s -- in org.productos.spring.java.productos2826502.Productos2826502ApplicationTests
